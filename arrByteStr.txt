@@ -1,1 +1,1 @@
-FishHandler_DOWN, FishHandler_RIGHT, FishHandler_UP, FishHandler_LEFT, FishHandler_SOUTH, FishHandler_EAST, FishHandler_NORTH, FishHandler_WEST, NOT_FOUND
+FishHandler_DOWN, FishHandler_RIGHT, FishHandler_UP, FishHandler_LEFT, FishHandler_SOUTH, FishHandler_EAST, FishHandler_NORTH, FishHandler_WEST, FishHandler_ENTER, NOT_FOUND
