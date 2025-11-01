@@ -1,2 +1,2 @@
-# avatar2
-mod avatar 2x
+# AvatarKhangDZ
+Server AvatarKhangDZ
